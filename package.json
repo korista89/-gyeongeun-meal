@@ -1,20 +1,4 @@
 {
   "name": "gyeongeun-meal-viewer",
-  "version": "1.0.0",
-  "description": "경은학교 급식 시각화 앱"
+  "version": "1.0.0"
 }
-```
-
-3. **저장** (Ctrl + S)하고 메모장 닫기
-
----
-
-## ✅ 최종 폴더 구조 확인
-
-이제 **"급식앱"** 폴더 안에 이렇게 있어야 해요:
-```
-급식앱/
-├── index.html
-├── package.json
-└── api/
-    └── menu.js
